@@ -10,3 +10,6 @@ Doom from EmuOS
 - https://zakghost354313.github.io/doom for doom 1, or https://zakghost354313.github.io/doom/1
 - https://zakghost354313.github.io/doom/2 for doom 2
 - https://zakghost354313.github.io/doom/3 for doom 3
+
+
+ps it's just a redirect, it works with or without JavaScript.
